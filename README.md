@@ -65,8 +65,8 @@ The dataset contains information about students' social media usage, including:
 - Addiction Score
 - Academic Performance
 
-Dataset Source:
-
+Dataset Source:Kaggle
+https://github.com/vaidehimistry05/Student-Social-Media-Analysis/blob/main/student_social_media_analysis_101.xlsx
 
 
 ---
